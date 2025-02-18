@@ -1,5 +1,5 @@
 # bootstrapping
-Adding bootstrap values to phyligenentic analysis - bare bones documentation
+Adding bootstrap values to phylogenentic analysis - bare bones documentation
 
 ## Approach 1: Add bootstrap values to Nextstrain build
 Following this GitIssue: [https://github.com/nextstrain/augur/issues/1456], download the python script `bootstrap_label.py` and add `-keep-polytomies` to augur refine 
